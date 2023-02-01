@@ -1,4 +1,4 @@
-package class_package;
+package class_package.classes;
 
 public class ClassAboutLoopWhile {
     public static void main(String[] args) {
